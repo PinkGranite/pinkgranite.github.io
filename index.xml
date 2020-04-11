@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://PinkGranite.github.io/</link>
+    <link>https://pinkgranite.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2020 13:47:34 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 14:20:57 +0800</lastBuildDate>
     
-	<atom:link href="https://PinkGranite.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pinkgranite.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>No.2</title>
+      <link>https://pinkgranite.github.io/post/blog2/</link>
+      <pubDate>Sat, 11 Apr 2020 14:20:57 +0800</pubDate>
+      
+      <guid>https://pinkgranite.github.io/post/blog2/</guid>
+      <description>Actually,this is try to push something to th remote origin to find out wether it is OK.</description>
+    </item>
+    
+    <item>
       <title>No.1</title>
-      <link>https://PinkGranite.github.io/post/blog/</link>
+      <link>https://pinkgranite.github.io/post/blog/</link>
       <pubDate>Sat, 11 Apr 2020 13:47:34 +0800</pubDate>
       
-      <guid>https://PinkGranite.github.io/post/blog/</guid>
+      <guid>https://pinkgranite.github.io/post/blog/</guid>
       <description></description>
     </item>
     

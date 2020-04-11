@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://PinkGranite.github.io/</loc>
+    <loc>https://pinkgranite.github.io/</loc>
+    <lastmod>2020-04-11T14:20:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pinkgranite.github.io/post/blog2/</loc>
+    <lastmod>2020-04-11T14:20:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pinkgranite.github.io/post/</loc>
+    <lastmod>2020-04-11T14:20:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pinkgranite.github.io/post/blog/</loc>
     <lastmod>2020-04-11T13:47:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://PinkGranite.github.io/post/blog/</loc>
-    <lastmod>2020-04-11T13:47:34+08:00</lastmod>
+    <loc>https://pinkgranite.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://PinkGranite.github.io/post/</loc>
-    <lastmod>2020-04-11T13:47:34+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://PinkGranite.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://PinkGranite.github.io/tags/</loc>
+    <loc>https://pinkgranite.github.io/tags/</loc>
   </url>
   
 </urlset>
