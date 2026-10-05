@@ -1,0 +1,153 @@
+[
+  {
+    "id": "agentsociety-paper",
+    "source_url": "https://arxiv.org/pdf/2502.08691v2",
+    "figure_number": 2,
+    "page": 6,
+    "caption": "Overview of the proposed social simulator AgentSociety.",
+    "version_label": "AgentSociety preprint \u00b7 arXiv v2 \u00b7 2026",
+    "status": "ready",
+    "alt": "Overview of the proposed social simulator AgentSociety.",
+    "asset_path": "assets/papers/agentsociety-paper.webp"
+  },
+  {
+    "id": "opencity-paper",
+    "source_url": "https://arxiv.org/pdf/2410.21286v1",
+    "figure_number": 2,
+    "page": 6,
+    "caption": "Overview of Group-and-Distill Meta-Prompt Optimizer.",
+    "version_label": "OpenCity preprint \u00b7 arXiv v1 \u00b7 2024; not final KDD version",
+    "status": "ready",
+    "alt": "Overview of Group-and-Distill Meta-Prompt Optimizer.",
+    "asset_path": "assets/papers/opencity-paper.webp"
+  },
+  {
+    "id": "agentrecbench",
+    "source_url": "https://arxiv.org/pdf/2505.19623v2",
+    "figure_number": 1,
+    "page": 3,
+    "caption": "The overall framework of our interactive textual environment simulator.",
+    "version_label": "arXiv v2 (2025)",
+    "status": "ready",
+    "alt": "The overall framework of our interactive textual environment simulator.",
+    "asset_path": "assets/papers/agentrecbench.webp"
+  },
+  {
+    "id": "reasoning-survey",
+    "source_url": "https://arxiv.org/pdf/2501.09686v3",
+    "figure_number": 3,
+    "page": 13,
+    "caption": "Diagrams of Different Search Algorithms for Test-time Reasoning Enhancement.",
+    "version_label": "arXiv v3 (2025)",
+    "status": "ready",
+    "alt": "Diagrams of Different Search Algorithms for Test-time Reasoning Enhancement.",
+    "asset_path": "assets/papers/reasoning-survey.webp"
+  },
+  {
+    "id": "workflow",
+    "source_url": "https://arxiv.org/pdf/2508.08726",
+    "figure_number": 1,
+    "page": 3,
+    "caption": "Generative social agent: A Theory-driven workflow.",
+    "version_label": "arXiv v1 (2025) preprint",
+    "status": "ready",
+    "alt": "Generative social agent: A Theory-driven workflow.",
+    "asset_path": "assets/papers/workflow.webp"
+  },
+  {
+    "id": "experiments",
+    "source_url": "https://arxiv.org/pdf/2508.08678",
+    "figure_number": 1,
+    "page": 3,
+    "caption": "Overview of the LLM-driven framework for piloting social experiments, which consists of three key elements: silicon participants, interventions, and data collection.",
+    "version_label": "arXiv PDF header states Published as a conference paper at COLM 2025.",
+    "status": "ready",
+    "alt": "Overview of the LLM-driven framework for piloting social experiments, which consists of three key elements: silicon participants, interventions, and data collection.",
+    "asset_path": "assets/papers/experiments.webp"
+  },
+  {
+    "id": "framework",
+    "source_url": "https://aclanthology.org/2025.acl-industry.94.pdf",
+    "figure_number": 2,
+    "page": 4,
+    "caption": "The architecture of the parallelized interaction engine.",
+    "version_label": "Official ACL 2025 Industry proceedings PDF",
+    "status": "ready",
+    "alt": "The architecture of the parallelized interaction engine.",
+    "asset_path": "assets/papers/framework.webp"
+  },
+  {
+    "id": "embodied-world-models",
+    "source_url": "https://www.preprints.org/manuscript/202604.0928/v2",
+    "figure_number": "Figure 1",
+    "page": null,
+    "caption": "Classification by generation modalities, action types, and applications.",
+    "version": "Preprints.org v2, posted 2026-05-15",
+    "status": "unavailable"
+  },
+  {
+    "id": "challenge",
+    "source_url": "https://arxiv.org/pdf/2502.18754v1",
+    "figure_number": "Figure 1",
+    "page": 3,
+    "caption": "Framework of environment simulator.",
+    "version": "arXiv2502.18754v1,2025-02-26; author preprint of same publication family",
+    "status": "ready",
+    "asset_path": "assets/papers/challenge.png"
+  },
+  {
+    "id": "international-perceptions",
+    "source_url": "https://arxiv.org/pdf/2508.08837v3",
+    "figure_number": "Figure 2",
+    "page": 5,
+    "caption": "Macro-scale cognitive-based attitudes evolution and debiasing framework.",
+    "version": "arXiv2508.08837v3,2026-03-10",
+    "status": "ready",
+    "asset_path": "assets/papers/international-perceptions.png"
+  },
+  {
+    "id": "dids",
+    "source_url": "https://www.sciencedirect.com/science/article/pii/S0167739X2400400X",
+    "figure_number": null,
+    "page": null,
+    "caption": null,
+    "version": "Future Generation Computer Systems2025",
+    "status": "unavailable"
+  },
+  {
+    "id": "coala",
+    "source_url": "https://cs.newpaltz.edu/~lik/publications/Qinyun-Cai-IEEE-TC-2024",
+    "figure_number": "Figure 2",
+    "page": 5,
+    "printed_page": 1728,
+    "caption": "Overview of the COALA framework.",
+    "version": "Author-hosted IEEE published paper, vol73 no7 July2024; current version2024-06-11",
+    "status": "ready",
+    "asset_path": "assets/papers/coala.png"
+  },
+  {
+    "id": "mobisim-bench",
+    "source_url": "https://openreview.net/forum?id=3QFvAXuNl7",
+    "figure_number": null,
+    "page": null,
+    "caption": null,
+    "version": "Public OpenReview manuscript; no acceptance asserted",
+    "status": "unavailable"
+  },
+  {
+    "id": "intelliworld",
+    "source_url": "https://github.com/PinkGranite/IntelliWorld/blob/master/docs/images/intelliworld-evidence.jpg",
+    "kind": "ui-screenshot",
+    "caption": "Public repository screenshot of the evidence inspector",
+    "status": "available",
+    "asset_path": "assets/projects/intelliworld.webp"
+  },
+  {
+    "id": "easypaper",
+    "source_url": "https://github.com/PinkGranite/EasyPaper#quickstart-sdk",
+    "kind": "repository-documentation",
+    "caption": "Actual Python SDK usage example from the public README",
+    "status": "documentation-preview",
+    "asset_path": "assets/projects/easypaper.png"
+  }
+]

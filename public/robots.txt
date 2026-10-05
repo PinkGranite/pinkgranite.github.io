@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pinkgranite.github.io/sitemap.xml
